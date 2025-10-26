@@ -1,0 +1,1 @@
+The backend acts as an AI orchestrator + template builder. It processes XML (Blogger theme files), runs AI reasoning through Gemini, and outputs:
